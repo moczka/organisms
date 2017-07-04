@@ -1,0 +1,29 @@
+{
+  "name": "organisms",
+  "version": "1.0.0",
+  "description": "A simulation of living orgamisns that eat, reproduce, react to their environment and evolve.",
+  "main": "js/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moczka/organisms.git"
+  },
+  "keywords": [
+    "html5",
+    "canvas",
+    "simulation",
+    "organisms"
+  ],
+  "author": "Javier S Guerrero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moczka/organisms/issues"
+  },
+  "homepage": "https://github.com/moczka/organisms#readme",
+  "devDependencies": {
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.1"
+  }
+}
